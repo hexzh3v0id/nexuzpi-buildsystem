@@ -1,0 +1,8 @@
+{
+  "name": "Remix: NexuzPi OS Buildsystem (Raspberry Pi 5 BCM2712)",
+  "description": "Schlankes Linux Firmware \u0026 RootFS Buildsystem für Raspberry Pi 5 (BCM2712) mit anpassbarem FHS Layout, Cross-Toolchains (GNU, Musl, uClibc) und Echtzeit-Konsolenausgabe für Metanexuz.de / Nexuzcode.de",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
